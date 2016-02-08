@@ -1,8 +1,9 @@
-# MovieViewer# Project 1 - *Name of App Here*
+# MovieViewer# Project 1 - *movieviewer*
 
 **MovieViewer** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 Time spent: **X** hours spent in total
+http://giphy.com/gifs/l4KhITEQEV9B7IDpC
 
 ## User Stories
 
@@ -37,6 +38,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+http://giphy.com/gifs/l4KhITEQEV9B7IDpC
 
 ## Notes
 
